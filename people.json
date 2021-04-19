@@ -1,0 +1,22 @@
+[
+  {"gender":"F","name":"Maria","lastName":"Kowalski","age":36,"email":"Maria.Kowalski@gmail.com"},
+  {"gender":"F","name":"Anna","lastName":"Nowak","age":58,"email":"Anna.Nowak@gmail.com"},
+  {"gender":"M","name":"Zenek","lastName":"Kowalski","age":42,"email":"Zenek.Kowalski@gmail.com"},
+  {"gender":"F","name":"Zofia","lastName":"Graczyk","age":21,"email":"Zofia.Graczyk@gmail.com"},
+  {"gender":"F","name":"Anna","lastName":"Nowak","age":41,"email":"Anna.Nowak@gmail.com"},
+  {"gender":"F","name":"Maria","lastName":"Nowak","age":47,"email":"Maria.Nowak@gmail.com"},
+  {"gender":"M","name":"Andrzej","lastName":"Kowalski","age":65,"email":"Andrzej.Kowalski@gmail.com"},
+  {"gender":"F","name":"Zofia","lastName":"Graczyk","age":50,"email":"Zofia.Graczyk@gmail.com"},
+  {"gender":"M","name":"Jan","lastName":"Nowak","age":29,"email":"Jan.Nowak@gmail.com"},
+  {"gender":"M","name":"Jan","lastName":"Kowalski","age":25,"email":"Jan.Kowalski@gmail.com"},
+  {"gender":"F","name":"Krystyna","lastName":"Kowalski","age":57,"email":"Krystyna.Kowalski@gmail.com"},
+  {"gender":"F","name":"Maria","lastName":"Nowak","age":58,"email":"Maria.Nowak@gmail.com"},
+  {"gender":"M","name":"Andrzej","lastName":"Graczyk","age":59,"email":"Andrzej.Graczyk@gmail.com"},
+  {"gender":"F","name":"Anna","lastName":"Malinowski","age":44,"email":"Anna.Malinowski@gmail.com"},
+  {"gender":"F","name":"Maria","lastName":"Malinowski","age":26,"email":"Maria.Malinowski@gmail.com"},
+  {"gender":"M","name":"Zenek","lastName":"Graczyk","age":30,"email":"Zenek.Graczyk@gmail.com"},
+  {"gender":"M","name":"Zenek","lastName":"Graczyk","age":36,"email":"Zenek.Graczyk@gmail.com"},
+  {"gender":"M","name":"Zenek","lastName":"Nowak","age":43,"email":"Zenek.Nowak@gmail.com"},
+  {"gender":"F","name":"Maria","lastName":"Kowalski","age":21,"email":"Maria.Kowalski@gmail.com"},
+  {"gender":"M","name":"Zenek","lastName":"Kowalski","age":68,"email":"Zenek.Kowalski@gmail.com"}
+]
